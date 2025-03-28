@@ -1,0 +1,54 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif,
+    sans-serif;
+    background-color: azure;
+    margin: 0px;
+    padding: 0px;
+    color: black;
+    text-align: center;
+    h2 {
+        color: #470e0e;
+        text-align: left;
+    }
+    h4{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: rgb(160, 182, 255);
+        text-align: left;
+    }
+    
+    p {
+        text-align: left;
+        line-height: 1.6;
+    }
+    
+}
+header{
+    background-color: rgb(243, 154, 154);
+    color:rgb(0, 0, 0);
+    text-align: center;
+    padding: 20px;
+    font-family: fantasy;
+
+}
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: #fdf6f0; /* Color pastel de fondo */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #f56f6f;
+    color: white;
+    position: relative;
+    bottom: 0;
+    width: 1;
+}
+img{ width: 300px;}
+ol{
+    text-align: left;
+}
